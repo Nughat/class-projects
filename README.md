@@ -1,2 +1,2 @@
 # class-projects
-Projects: Animal, Doubly Linked List, Linked Bag
+Projects: Animal, Doubly Linked List, Linked Bag, & Pronounce
